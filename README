@@ -1,0 +1,5 @@
+This project is based on the Apache Commons Digester library, which provides PHP developers a way of passing XML structure directly into an object structure. The code is a port of the apache project to PHP.
+
+This library is utilised by Aloi to pass the http and mvc configurations into a data structure of objects. These are then utilised in the caching mechanism as a way of speeding up the loading of configuration into memory and useful objects.
+
+Please check the file headers for more information about the original authors.
